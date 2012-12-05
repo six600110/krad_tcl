@@ -1,5 +1,3 @@
-## TODO: use kr_client.tcl everywhere :D
-
 source kr_client.tcl
 
 set sleeptime 100
